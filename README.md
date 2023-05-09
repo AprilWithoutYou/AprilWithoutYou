@@ -1,16 +1,36 @@
-### Hi there 👋
+### Hola, me llamo Daniel Gómez, AprilWithoutYou en Github.
 
-<!--
-**AprilWithoutYou/AprilWithoutYou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ¿Quién soy?
 
-Here are some ideas to get you started:
+Soy un Fullstack web developer, pero me gusta mucho el Front end!
+Desde pequeño me han interesado mucho las computadoras y las programación. Estoy trabajando para poder crear aplicaciones web y móviles con tecnologías como React Native y Flutter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ¿Qué tecnologías utilizo?
+
+En el Bootcamp de SoyHenry puede obtener conocimiento de las siguientes tecnologías:
+
+<h5>• Javascript </h5>
+
+<h5>• React.js </h5>
+
+<h5>• Node.js </h5>
+
+<h5>• Express.js </h5>
+
+<h5>• PostgreSQL </h5>
+
+<h5>• Sequelize </h5>
+
+<h5>• GIT </h5>
+
+Incluyendo HTML y CSS.
+
+Otras tecnologías que manejo son React Native y Flutter.
+
+Herramientas que manejo y son utiles para mi campo son Photoshop, Clip Studio Paint y Figma.
+
+## Contáctame
+
+Dangj98@gmail.com
+
+https://www.linkedin.com/in/daniel-gomez-junghans/
